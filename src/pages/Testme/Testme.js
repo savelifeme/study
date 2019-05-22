@@ -67,7 +67,7 @@ export default class Article extends Component {
 				key: '1',
 				name: 'John Brown',
 				age: 32,
-				address: 'New York No. 1 Lake Park'
+				address: '一个新的 No. 1 Lake Park'
 			},
 			{
 				key: '2',

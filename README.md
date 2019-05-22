@@ -1,6 +1,6 @@
-English | [简体中文](./README.zh-CN.md) | [Русский](./README.ru-RU.md)
+English | [简体中文](./README.zh-CN.md) 
 
-<h1 align="center">Ant Design Pro</h1>
+<h1 align="center">在antd上面自己学习自己做验证</h1>
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md) 
+ [简体中文](./README.zh-CN.md) 
 
 <h1 align="center">在antd上面自己学习自己做验证</h1>
 

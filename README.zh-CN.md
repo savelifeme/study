@@ -1,4 +1,4 @@
-[English](./README.md) | 简体中文 | [Русский](./README.ru-RU.md)
+ 简体中文 
 
 <h1 align="center">在antd上面自己学习自己做验证</h1>
 

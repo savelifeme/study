@@ -85,7 +85,7 @@ export default class Article extends Component {
 				key: '4',
 				name: 'Jim Red',
 				age: 32,
-				address: '但是，我不想动了，我还想吃东西，'
+				address: '但是，我不想动了，我还想吃东西，你好坏，不让我吃东西。'
 			}
 		];
 

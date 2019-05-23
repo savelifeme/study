@@ -67,25 +67,25 @@ export default class Article extends Component {
 				key: '1',
 				name: 'John Brown',
 				age: 32,
-				address: '一个新的 No. 1 Lake Park'
+				address: '你吃了吗'
 			},
 			{
 				key: '2',
 				name: 'Jim Green',
 				age: 42,
-				address: 'London No. 1 Lake Park'
+				address: '我吃了，但是没有吃饱'
 			},
 			{
 				key: '3',
 				name: 'Joe Black',
 				age: 32,
-				address: 'Sidney No. 1 Lake Park'
+				address: '我也是耶，没有吃饱，好饿。'
 			},
 			{
 				key: '4',
 				name: 'Jim Red',
 				age: 32,
-				address: 'London No. 2 Lake Park'
+				address: '但是，我不想动了，我还想吃东西，'
 			}
 		];
 
